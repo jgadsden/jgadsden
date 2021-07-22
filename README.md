@@ -1,5 +1,3 @@
-### Hello github community 👋
-
 💬 Ask me anything on [OWASP Threat Dragon](https://github.com/OWASP/threat-dragon#readme) threat modeling tool
 
 <!--
@@ -15,5 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+### Hello github community 👋
+
+-->
