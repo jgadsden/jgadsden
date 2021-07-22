@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello github community 👋
+
+💬 Ask me anything on [OWASP Threat Dragon](https://github.com/OWASP/threat-dragon#readme) threat modeling tool
 
 <!--
 **jgadsden/jgadsden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
